@@ -2,6 +2,7 @@ name: Merge PR
 on:
   pull_request:
     types:
+    // i am chanching the code
       - labeled
       - unlabeled
       - synchronize
